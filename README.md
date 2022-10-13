@@ -65,3 +65,5 @@ Create the `Config.js` with following code
         }
     }
     ```
+
+The PDF generated from template https://docs.google.com/document/d/194yTL9P4Uwxj7ck6YdvWkMkKqxs2ox8ShHbRlQpMue4/edit?usp=sharing
